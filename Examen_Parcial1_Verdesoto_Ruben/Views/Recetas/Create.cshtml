@@ -1,0 +1,64 @@
+﻿@model Examen_Parcial1_Verdesoto_Ruben.Models.Receta
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Nueva Receta</h1>
+
+<h4>Receta</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <!-- Asegúrate de que el método sea POST -->
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <textarea asp-for="Descripcion" class="form-control"></textarea>
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Tiempo_Preparacion" class="control-label"></label>
+                <input asp-for="Tiempo_Preparacion" class="form-control" />
+                <span asp-validation-for="Tiempo_Preparacion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Dificultad" class="control-label"></label>
+                <input asp-for="Dificultad" class="form-control" />
+                <span asp-validation-for="Dificultad" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Id_Chef" class="control-label"></label>
+                <select asp-for="Id_Chef" class="form-control" asp-items="ViewBag.Id_Chef"></select>
+                <span asp-validation-for="Id_Chef" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Ingredientes</label>
+                <select multiple="multiple" name="selectedIngredientes" class="form-control" asp-items="ViewBag.Ingredientes"></select>
+                <span asp-validation-for="Ingredientes" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Create</button>
+        </form>
+        <div>
+            <a asp-action="Index">Regresa al menú</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

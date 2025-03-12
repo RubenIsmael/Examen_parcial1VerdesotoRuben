@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\views\\recetas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:views\\recetas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\controllers\\ingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:controllers\\ingredientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\models\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:models\\receta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\views\\recetas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:views\\recetas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\models\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:models\\ingrediente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\views\\recetas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:views\\recetas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\views\\chefs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:views\\chefs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:controllers\\chefscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:models\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Data\\Migrations\\20250311144114_AddRecetasIngredientesChefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250311144114_AddRecetasIngredientesChefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|c:\\users\\hpone\\source\\parcial1\\examen_parcial1_verdesoto_ruben\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AA9969-F4DD-4938-8792-90FFDC5836F8}|Examen_Parcial1_Verdesoto_Ruben.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:53:34.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:51:47.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:51:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T13:46:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Receta.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Models\\Receta.cs",
+              "RelativeDocumentMoniker": "Models\\Receta.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Models\\Receta.cs",
+              "RelativeToolTip": "Models\\Receta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:27:15.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T17:43:54.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecetasController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Controllers\\RecetasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecetasController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Controllers\\RecetasController.cs",
+              "RelativeToolTip": "Controllers\\RecetasController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:43:19.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:58:11.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ingrediente.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Models\\Ingrediente.cs",
+              "RelativeDocumentMoniker": "Models\\Ingrediente.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Models\\Ingrediente.cs",
+              "RelativeToolTip": "Models\\Ingrediente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:22:10.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Recetas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recetas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Recetas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Recetas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:02:11.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Recetas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recetas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Recetas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Recetas\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T23:28:13.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IngredientesController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Controllers\\IngredientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IngredientesController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Controllers\\IngredientesController.cs",
+              "RelativeToolTip": "Controllers\\IngredientesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:41:53.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:05:38.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Recetas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recetas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Recetas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Recetas\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T22:53:18.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T22:58:02.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Models\\Chef.cs",
+              "RelativeDocumentMoniker": "Models\\Chef.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Models\\Chef.cs",
+              "RelativeToolTip": "Models\\Chef.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:20:17.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:22:22.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250311144114_AddRecetasIngredientesChefs.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Data\\Migrations\\20250311144114_AddRecetasIngredientesChefs.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250311144114_AddRecetasIngredientesChefs.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Data\\Migrations\\20250311144114_AddRecetasIngredientesChefs.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250311144114_AddRecetasIngredientesChefs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:41:15.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChefsController.cs",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Controllers\\ChefsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChefsController.cs",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Controllers\\ChefsController.cs",
+              "RelativeToolTip": "Controllers\\ChefsController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:39:56.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Chefs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chefs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HpOne\\source\\Parcial1\\Examen_Parcial1_Verdesoto_Ruben\\Views\\Chefs\\Create.cshtml",
+              "RelativeToolTip": "Views\\Chefs\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T18:01:27.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
